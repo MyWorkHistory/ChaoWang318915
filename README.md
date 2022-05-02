@@ -1,10 +1,19 @@
-- 👋 Hi, My name is Chao Wang, Full stack web developer with more than 6 years of experience.
-- 👀 I’m interested in working with client for growing the relationship and long-term friendship.
-- 🌱 I’m currently learning React, Vuex,Vue, Angular, Laravel.
-- 💞️ I’m looking to collaborate on finding the good opportunity.
-- 📫 My skype:star-chaowang@outlook.com, email:chaowang318915@gmail.com
+Hi, there, 
+I am a professional software engineer with over seven years of experience creating highly maintainable software products. I am a seasoned full-stack developer with test automation experience. Thanks to great communication skills and a keen eye for specification analysis, Also delivers bug-free solutions that 100% meet the client's requirements. 
 
-<!---
-ChaoWang318915/ChaoWang318915 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+ 
+------------------------    My Digital highlights   ---------------------------
+
+Laravel
+JavaScript / TypeScript, Bootstrap, Php
+React, Gatsby, Next, Styled-Components, React-Bootstrap, Material-UI, Angular, Vue, WebGL
+Redux Saga, Redux Thunk, Material UI
+RESTful / GraphQL
+Node / Express / Hapi
+WordPress, Shopify, Magento
+MySQL, MongoDB, PostgreSQL
+CMS ( GraphCMS, Strapi, ContentStack, Contentful, ButterCMS )
+GitHub, GitLab, Bitbucket, Slack, Trello, JIRA
+Amazon Web Service, DigitalOcean
+
