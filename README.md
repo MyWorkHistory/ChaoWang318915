@@ -3,17 +3,17 @@ I am a professional software engineer with over seven years of experience creati
 
 
  
-------------------------    My Digital highlights   ---------------------------
+------------------------   👌 My Digital highlights 👌  ---------------------------
 
-Laravel
-JavaScript / TypeScript, Bootstrap, Php
-React, Gatsby, Next, Styled-Components, React-Bootstrap, Material-UI, Angular, Vue, WebGL
-Redux Saga, Redux Thunk, Material UI
-RESTful / GraphQL
-Node / Express / Hapi
-WordPress, Shopify, Magento
-MySQL, MongoDB, PostgreSQL
-CMS ( GraphCMS, Strapi, ContentStack, Contentful, ButterCMS )
-GitHub, GitLab, Bitbucket, Slack, Trello, JIRA
-Amazon Web Service, DigitalOcean
+✔ Laravel
+✔ JavaScript / TypeScript, Bootstrap, Php
+✔ React, Gatsby, Next, Styled-Components, React-Bootstrap, Material-UI, Angular, Vue, WebGL
+✔ Redux Saga, Redux Thunk, Material UI
+✔ RESTful / GraphQL
+✔ Node / Express / Hapi
+✔ WordPress, Shopify, Magento
+✔ MySQL, MongoDB, PostgreSQL
+✔ CMS ( GraphCMS, Strapi, ContentStack, Contentful, ButterCMS )
+✔ GitHub, GitLab, Bitbucket, Slack, Trello, JIRA
+✔ Amazon Web Service, DigitalOcean
 
