@@ -19,7 +19,7 @@ hi, there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
   I am a full stack software developer with experience in software testing and quality, software development lifecycle, project management, Node.js, TypeScript, Rest APIs, Soap, React.js, Angular.js, Laravel, Mysql, Mongo DB and several hosting systems - AWS,Blueshot, Godaddy. 
   
-  During my time as a student in Shenyang University of Science and Technology, I showed a high level of dedication and enthusiasm towards my work. 
+  During my time as a student in the University, I showed a high level of dedication and enthusiasm towards my work. 
   
   I am not simply contented with doing an assignment, I always go above and beyond what is required and thus produce work of superior caliber when judged against my counterparts.
   
