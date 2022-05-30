@@ -1,4 +1,6 @@
-(●'◡'●) Hi, there, (●'◡'●)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+ </div>
 I am a professional software engineer with over seven years of experience creating highly maintainable software products. I am a seasoned full-stack developer with test automation experience. Thanks to great communication skills and a keen eye for specification analysis, Also delivers bug-free solutions that 100% meet the client's requirements. 
 
 
