@@ -17,19 +17,19 @@
 ### :man_technologist: About Me :
 hi, there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
-  I am a full stack software developer with experience in software testing and quality, software development lifecycle, project management, Node.js, TypeScript, Rest APIs, Soap, React.js, Angular.js, Laravel, Mysql, Mongo DB and several hosting systems - AWS,Blueshot, Godaddy. 
-  
-  During my time as a student in the University, I showed a high level of dedication and enthusiasm towards my work. 
-  
-  I am not simply contented with doing an assignment, I always go above and beyond what is required and thus produce work of superior caliber when judged against my counterparts.
-  
-  In conclusion, I could be a great asset to your company. 
-  
-  If my performance in my classes is any indication of how I’d perform in your position, I will be a positive addition to your organization.
-  
-  Best Regards.
-  
-  Chao
+  I am a full-stack software developer with experience in software testing and quality, software development lifecycle, project management, Node.js, TypeScript, Rest APIs, Soap, React.js, Angular.js, Laravel, Mysql, Mongo DB, and several hosting systems - AWS,Bluehost, Godaddy.
+
+During my time as a student at the University, I showed a high level of dedication and enthusiasm toward my work.
+
+I am not simply contented with doing an assignment, I always go above and beyond what is required and thus produce work of superior caliber when judged against my counterparts.
+
+In conclusion, I could be a great asset to your company.
+
+If my performance in my classes is any indication of how I’d perform in your position, I will be a positive addition to your organization.
+
+Best Regards.
+
+Chao
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
