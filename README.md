@@ -72,8 +72,6 @@ Chao
 - :1st_place_medal: Amazon Web Service, DigitalOcean.
  
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChaoWang318915&theme=holi-theme)](https://git.io/streak-stats)
-
+### My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoWang318915&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
